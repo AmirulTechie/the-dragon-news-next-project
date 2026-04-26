@@ -10,4 +10,4 @@ const AuthLayout = ({children}) => {
     );
 };
 
-export default AuthLayout;<NavBar></NavBar>
+export default AuthLayout;
