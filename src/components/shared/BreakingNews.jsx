@@ -31,7 +31,7 @@ const breakingNews = [
 
 const BreakingNews = () => {
     return (
-        <div className=" flex justify-between items-center bg-gray-200 py-2 px-2">
+        <div className=" flex justify-between items-center bg-gray-200 py-4 px-2">
             <button className="btn btn-secondary">Latest News</button>
             <Marquee speed={60}>
                 {breakingNews.map((n)=>(
