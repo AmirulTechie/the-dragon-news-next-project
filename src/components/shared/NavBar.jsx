@@ -3,11 +3,12 @@ import Link from "next/link";
 import userAvatar from "@/assets/user.png"
 import NavLink from "./NavLink";
 const NavBar = () => {
+    const default_category_id = "01";
     return (
         <div className="flex justify-between items-center container mx-auto mt-6">
             <div className="w-30"></div>
             <ul className="flex gap-6 text-gray-700">
-                <li><NavLink href="/">Home</NavLink></li>
+                <li><NavLink href={`/category/${default_category_id}`}>Home</NavLink></li>
                 <li><NavLink href="/about">About</NavLink></li>
                 <li><NavLink href="/career">Career</NavLink></li>
             </ul>
