@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📰 Modern News Web Application
 
-## Getting Started
+A modern, responsive, and performance-focused **News Web Application** built using **Next.js**. This project simulates a real-world news platform where users can explore categorized articles and view detailed news content with smooth and optimized navigation.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🗂️ Browse news by categories  
+- 📄 Dynamic news detail pages  
+- ⚡ Fast performance using SSR & SSG  
+- 📱 Fully responsive (mobile, tablet, desktop)  
+- 🧩 Component-based architecture  
+- 🔄 API-based dynamic content  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+- **Framework:** Next.js  
+- **Library:** React  
+- **Language:** JavaScript  
+- **Styling:** Tailwind CSS / CSS  
+- **Data Source:** REST API  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧠 What I Learned
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Implementing **dynamic routing** in Next.js  
+- Understanding **Server-Side Rendering (SSR)** vs **Static Site Generation (SSG)**  
+- Structuring scalable and reusable components  
+- Handling API data efficiently  
+- Improving performance and user experience  
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
