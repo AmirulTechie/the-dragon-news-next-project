@@ -6,9 +6,8 @@ const NotFoundPage = () => {
     return (
         <>
         <NavBar></NavBar>
-        <div className="min-h-screen bg-gray-50 flex flex-col justify-center items-center px-4 font-sans">
+        <div className="min-h-screen flex flex-col justify-center items-center px-4 font-sans">
             <div className="text-center max-w-md">
-                {/* Subtle decorative element: newspaper icon */}
                 <div className="text-gray-300 mb-6">
                     <svg className="w-24 h-24 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9.5a2.5 2.5 0 00-2.5-2.5H15" />
